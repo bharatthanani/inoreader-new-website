@@ -1,0 +1,1243 @@
+@media only screen and (max-width:1330px){
+	.client-card {
+    	padding: 50px 25px;
+	}
+}
+@media only screen and (max-width:1280px){
+    .boldText {
+        font-size: 38px;
+    }
+    .indexSecOne .rightCol .discountTag {
+        position: absolute;
+        left: -15%;
+        top: 6%;
+        max-width: 165px;
+        width: 100%;
+    }
+    .indexSecOne .rightCol .discountTag p:last-of-type {
+        font-size: 35px;
+    }
+    .logo-box img {
+        max-width: 150px;
+        width: 100%;
+    }
+    .indexSecOne .boldText span {
+        padding: 0 0px;
+    }
+    .indexSecTwo .rightCol .title .siteLabel {
+        font-size: 40px;
+    }
+    .indexSecTwo .leftCol {
+		max-width: 500px;
+		margin: 0 auto;
+	}
+	.indexSecTwo .leftCol::before {
+    	max-width: 450px;
+	}
+	.indexSecTwo .leftCol .blueDoct {
+    	max-width: 480px;
+	}
+	/*Career Page*/
+	.career-index .leftCol .blueDoct {
+    	max-width: 470px;
+	}
+	.career-index .leftCol::before {
+    	max-height: 520px;
+	}
+	.career-index .leftCol {
+    	max-height: 550px;
+    	min-height: 550px;
+	}
+}
+@media only screen and (max-width:1200px){
+  	.index-3-tabs-wrap .tab-pane form .form-info-card {
+    	padding: 20px 30px 20px 30px;
+	}
+	.indexSecTwo .leftCol .topCorner {
+    	left: 0%;
+	}
+	.indexSecOne .rightCol::before {
+		max-width: 460px;
+	}
+	.profile-index-sec .prof-img img {
+    	max-width: 300px;
+    	min-height: 250px;
+    	max-height: 250px;
+    	object-fit: cover;
+    	width: 100%;
+	}
+	.prof-img {
+    	text-align: center;
+	}
+
+}
+@media only screen and (max-width:1060px){
+    .indexSecOne .bannerCarousel .owl-nav {
+	    height: 50px;
+	    width: 135px;
+	}
+	.indexSecOne .rightCol img {
+	    max-width: 445px;
+	    border-bottom-left-radius: 255px;
+	    border-bottom-right-radius: 127px;
+	    position: absolute;
+	    right: 10%;
+	    bottom: 2%;
+	}
+	.custom-nav ul > li > a {
+	    font-size: 14px;
+	}
+}
+@media only screen and (max-width:1024px){
+    .indexSecTwo .leftCol .topCorner {
+    position: absolute;
+    left: 0%;
+    top: -6%;
+}
+    .indexSecTwo .leftCol .blueDoct {
+    max-width: 400px;
+
+}
+    .filter-image {
+    max-width: 80px;
+    padding: 0 20px;
+}
+            header .headerInner {
+            padding: 10px 0;
+            }
+	.stellarnav .menu-toggle span.bars {
+	    display: inline-block;
+	    margin-right: 0.5px;
+	    position: relative;
+	    top: 1px;
+	}
+	.stellarnav .menu-toggle span.bars span{
+		background: #000;
+	}
+	.indexSecTwo .rightCol .title .siteLabel {
+    font-size: 35px;
+	}
+	.indexSecOne .rightCol .discountTag {
+	    position: absolute;
+	    left: -10%;
+	    top: 6%;
+	    max-width: 135px;
+	    width: 100%;
+	}
+	.indexSecOne .rightCol .discountTag p:last-of-type {
+    	font-size: 30px;
+	}
+	.menu-toggle {
+	    background: #ffb710;
+	    border-radius: 100%;
+	    width: 40px;
+	    height: 40px;
+	    display: flex !important;
+	    justify-content: center;
+	    align-items: center;
+	    position: fixed;
+	    right: 20px;
+	    top: 27px;
+	    color: #000 !important;
+	}
+	.loginCta {
+    	padding: 0px 60px;
+	}
+	  .custom-nav .mobile ul {
+	    position: relative;
+	    display: none;
+	    z-index: 9999;
+	    text-align: left;
+	    background: rgba(221,221,221,1);
+	}
+	.custom-nav.stellarnav.mobile li a {
+    	border-bottom: none;
+	}
+	 .custom-nav .stellarnav.mobile ul {
+            position: relative !important;
+            z-index: 9999 !important;
+           
+        }
+	.custom-nav.stellarnav.mobile li {
+    	border-bottom: 1px solid rgba(255,255,255,.15);
+	}
+	.custom-nav.stellarnav .icon-close:after, .stellarnav .icon-close:before{
+		border-color: #fff;
+	}
+	.custom-nav.mobile ul {
+        background: rgba(0,0,0,0.9);
+        border-radius: 0;
+	}
+	.custom-nav ul > li{
+    	height: 60px;
+	}
+	.custom-nav ul > li > a{
+		color: #fff;
+	    font-size: 14px;
+    	font-weight: 400;
+    	height: 60px;
+    	display: flex;
+    	align-items: center;
+	}
+	.custom-nav ul > li > a,
+	.custom-nav ul li a {
+    	padding: 13px 15px !important;
+	}
+	.custom-nav ul li a i{
+		display: none;
+	}
+	.custom-nav .dd-toggle {
+    	top: -5px;
+	}
+	.custom-nav a.dd-toggle .icon-plus:after, 
+	.custom-nav a.dd-toggle .icon-plus:before{
+		border-color: #fff;
+	}
+	.custom-nav li.open>a.dd-toggle .icon-plus:after,
+	.custom-nav li.open>a.dd-toggle .icon-plus:before{
+		border-color: var(--theme-color-1);
+	}
+	.custom-nav .cart-btn{
+		width: 50px;
+	}
+	.custom-nav ul .cart-btn span {
+	    right: 6px;
+	    bottom: 30px;
+	}
+	/*INDEX PAGE*/
+	.index-3-tabs-wrap .tab-pane form .form-info-card .heading {
+    	font-size: 16px;
+	}
+	.index-sec-8 {
+    	padding: 80px 0 100px 0;
+	}
+	.index-sec-8 .text-col{
+		width: 100%;
+	}
+	.clients-slider-wrap{
+	  	position: relative;
+	  	max-width: 1200px;
+	  	margin: 50px auto 0 auto;
+	  	width: 100%;
+	  	top: auto;
+	  	transform: none;
+	  	padding: 0 15px;
+	}
+	.indexSecTwo .leftCol .blueDoct {
+		left: 17.5%;
+	}
+	/*ABOUT PAGE*/
+	.about-3-text p {
+    	font-size: 15px;
+	}
+	.about-3-text .heading {
+    	font-size: 32px;
+	}
+	.about-3-card-wrap .index-2-card p {
+	    font-size: 16px;
+	    font-weight: 600;
+	}
+	.about-sec-3 .about-3-right {
+	    position: relative;
+	    width: 100%;
+	    height: 400px;
+	    background-position: center;
+	}
+	.about-sec-3 {
+    	padding: 70px 0 0 0;
+	}
+	.about-3-text {
+	    max-width: 100%;
+	    padding-bottom: 70px;
+	}
+	/*Career Page*/
+	.career-index .leftCol .blueDoct {
+    	max-width: 450px;
+	}
+	.career-index .leftCol::before {
+    	max-height: 490px;
+    	max-width: 440px;
+	}
+	.career-index .leftCol {
+    	max-height: 540px;
+    	min-height: 540px;
+	}
+	.position-heading-sec .boldText {
+    	font-size: 35px;
+	}
+	.position-heading-sec .siteLabel {
+    	padding: 8px 20px;
+	}
+	/*Blog Page*/
+	.blog-promo-sec .blog-card-img img {
+    	object-fit: cover;
+	}
+
+}
+@media only screen and (max-width:991px){
+    .filter-image {
+    max-width: 106px;
+    padding: 0 35px;
+}
+    .blog-image img {
+    max-width: 300px;
+    min-height: 250px;
+}
+    .boldText {
+    font-size: 34px;
+}
+    .indexSecTwo .rightCol .title span {
+    font-size: 40px;
+
+}
+    .indexSecTwo .leftCol {
+    position: relative;
+    max-height: 600px;
+    min-height: 589px;
+    height: 100%;
+    max-width: 460px;
+    width: 100%;
+}
+    .appointment-box p {
+    font-size: 20px;
+}
+	/*INDEX PAGE*/
+	.index-banner-slider .swiper-slide {
+    	padding: 200px 0 140px 0;
+	}
+	.index-banner-slider .swiper-pagination {
+    	bottom: 65px;
+	}
+	.index-sec-2 {
+    padding-top: 100px;
+    padding-bottom: 250px;
+	}
+	.index-2-text{
+		margin-bottom: 50px;
+	}
+	.index-2-text .heading {
+    	font-size: 40px;
+	}
+	.index-2-card{
+		margin-bottom: 40px;
+	}
+	.index-3-tabs-wrap .tab-pane form .form-info-card {
+    	padding: 30px 40px 22px 40px;
+	}
+	.index-3-tabs-wrap .tab-pane form .form-info-card .heading {
+    	font-size: 21px;
+	}
+	.index-3-tabs-wrap .tab-pane form .form-info-card .apply-btn{
+		margin-top: 15px;
+	}
+	.index-banner-text .heading {
+    	font-size: 46px;
+	}
+	.index-5-text{
+		max-width: 100%;
+		padding: 200px 0 50px 0;
+	}
+	.index-sec-5 .img-box{
+		text-align: center;
+	}
+	.index-8-text{
+		margin-bottom: 50px;
+	}
+	.index-8-text .heading {
+    	font-size: 34px;
+	}
+	.client-card {
+    	padding: 30px 30px;
+	}
+	.index-sec-8 {
+    	padding: 70px 0 80px 0;
+	}
+	.indexSecOne .rightCol::before {
+    	max-width: 440px;
+	}
+	.indexSecOne .rightCol img {
+    	max-width: 425px;
+	}
+	.indexSecTwo .leftCol::before {
+	    max-width: 420px;
+	}
+	.indexSecTwo .leftCol .blueDoct {
+    	bottom: 1%;
+	}
+	/*Career Page*/
+	.career-index .leftCol .blueDoct {
+    	max-width: 430px;
+	}
+	.career-index .leftCol::before {
+    	max-height: 475px;
+	}
+	.career-index .leftCol {
+		max-height: 510px;
+    	min-height: 510px;
+	}
+	
+
+
+
+	/*FOOTER*/
+	.footer-top .footer-logo{
+		text-align: center;
+		margin-bottom: 30px;
+	}
+	.footer-top .subscribe-form p {
+    	text-align: center;
+    	margin-bottom: 15px;
+	}
+	.footer-top .subscribe-form p br{
+		display: none;
+	}
+	.footer-middle{
+		padding-top: 55px;
+	}
+	.footer-group-1{
+		margin-bottom: 30px;
+		text-align: center;
+	}
+	.footer-group-1 p{ 
+		max-width: 100%;
+	}
+	.footer-group .footer-social{
+		justify-content: center;
+	}
+	/*CONTACT PAGE*/
+	.contact-2-text{
+		padding-bottom: 30px;
+		max-width: 100%;
+    	display: flex;
+    	flex-wrap: wrap;
+	}
+	.contact-2-text > div{
+		width: 50%;
+		padding-right: 20px;
+	}
+	.inner-gen-banner {
+    	min-height: 550px;
+	}
+	/*ABOUT PAGE*/
+	.about-sec-2 .index-4-text{
+		padding-left: 0;
+		padding-bottom: 30px;
+	}
+	.about-sec-2 .index-4-text .heading {
+	    font-size: 34px;
+	    line-height: 1.2;
+	    max-width: 100%;
+	}
+	.about-sec-2 .text-box{
+		padding-left: 20px;
+	}
+}
+@media only screen and (max-width:910px){
+	.indexSecOne .rightCol::before {
+	    content: '';
+	    position: absolute;
+	    max-height: 475px;
+	    height: 100%;
+	    max-width: 410px;
+	    top: 2%;
+	    left: 0%;
+	    right: 0%;
+	}
+ 	.indexSecOne .rightCol img {
+	    max-width: 389px;
+	    position: absolute;
+	    right: 9%;
+	    bottom: 1%;
+	}
+    .indexSecOne .bannerCarousel .owl-nav {
+    	position: absolute;
+    	bottom: -55%;
+    	right: -100%;
+    	height: 60px;
+    	width: 150px;
+
+	}
+    .indexSecTwo .rightCol .title .siteLabel {
+	    font-size: 25px;
+	}
+     .appointment-box p {
+	    font-size: 15px;
+	}
+	.indexSecTwo .leftCol .blueDoct {
+	    max-width: 330px;
+	}
+	.indexSecTwo .leftCol {
+    	position: relative;
+    	max-height: 90px;
+    	min-height: 519px;
+    	height: 100%;
+   	
+	}
+	.indexSecTwo .leftCol .blueDoct {
+    	bottom: 2%;
+    	left: 18%;
+	}
+	.indexSecTwo .leftCol::before {
+    	content: '';
+    	position: absolute;
+    	max-height: 490px;
+    	height: 100%;
+    	max-width: 400px;
+    	width: 100%;
+    	top: 3%;
+    	left: 0%;
+    	right: 0%;
+	}
+	/*Travel Nurse Page Css */
+	.profileSec .profileBox .profileDetails {
+    	padding: 20px;
+	}
+	/*career Page */
+	.career-index .leftCol .blueDoct {
+    	max-width: 405px;
+	}
+	.career-index .leftCol::before {
+    	max-height: 450px;
+	}
+	.career-index .leftCol {
+    	min-height: 480px;
+	}
+	.position-sect .position-sect-cards .manager {
+    	font-size: 22px;
+	}
+	/*Blog Page*/
+	.blog-promo-sec .blog-card-wrap {
+    	max-height: 640px;
+    	min-height: 640px;
+	}
+
+}
+@media (max-width: 768px) {
+	.indexSecTwo {
+		padding-bottom: 0;
+	}
+	.indexSecOne .rightCol::before {
+    	max-width: 320px;
+	}
+	.indexSecOne .rightCol img {
+    	max-width: 320px;
+    	right: 12%;
+    	bottom: 2%;
+	}
+	.indexSecTwo .leftCol::before {
+    	max-width: 320px;
+	}
+	.indexSecTwo .leftCol .blueDoct {
+    	left: 15%;
+	}
+	.service-item {
+    	justify-content: center;
+	}
+	.service-item p {
+    	margin-left: 10px;
+	}
+	.service-itemBox .card-body {
+    	margin: 0 0 0 70px;
+	}
+	.indexSecFour {
+		padding-top: 0;
+	}
+	/*Travel Nurse Page Css*/
+	.profileSec .profileBox .profileDetails {
+    	padding: 15px 10px;
+	}
+	.testimonial-sect .title p {
+    	font-size: 30px;
+	}
+	/*Career Page*/
+	.career-index .rightCol .title span {
+    	font-size: 35px;
+	}
+	.career-index .career-title {
+    	margin-top: 40px !important;
+	}
+	.career-index .leftCol .blueDoct {
+    	max-width: 340px;
+	}
+	.career-index .leftCol::before {
+    	max-height: 370px;
+	}
+	.career-index .leftCol {
+    	min-height: 400px;
+	}
+	.position-sect {
+    	padding: 70px 0px 0px;
+	}
+	.position-heading-sec .boldText {
+    	font-size: 30px;
+	}
+	.position-heading-sec .siteLabel {
+    	padding: 8px 15px;
+    	font-size: 25px;
+	}
+	.position-sect .position-sect-cards .manager {
+    	font-size: 20px;
+	}
+	/*Blog Page*/
+	.blog-promo-sec .b-card-st3-head {
+    	font-size: 22px;
+	}
+	.blog-promo-sec {
+    	padding-top: 50px;
+	}
+
+
+}
+@media only screen and (max-width:767px){
+	/*INDEX PAGE*/
+	.index-3-tabs-wrap .nav-link {
+    	font-size: 16px;
+	}
+	.index-3-tabs-wrap .nav-link span img{
+		max-width: 35px;
+	}
+	.index-4-text .text-box{
+		margin: 30px 0 0 0;
+	}
+	.index-4-text {
+    	padding-left: 30px;
+	}
+	.indexSecOne .rightCol::before {
+    	max-width: 475px;
+	}
+	.indexSecOne .rightCol {
+    	margin: 0 auto;
+	}
+	.indexSecTwo .leftCol::before {
+    	max-width: 420px;
+	}
+	.indexSecTwo .leftCol .blueDoct {
+    	bottom: 1%;
+    	left: 20%;
+    	max-width: 350px;
+	}
+	.rightCol {
+    	padding-top: 100px;
+	}
+	.indexSecOne .rightCol img {
+    	max-width: 400px;
+    	right: 18%;
+    	bottom: 2%;
+	}
+	.services-box {
+		border-radius: 50px 50px 180px 50px;
+	}
+	.service-item {
+    	justify-content: initial;
+	}
+	.service-item {
+    	max-width: 550px;
+	}
+	.service-itemBox .card-body {
+    	margin: 0 0 0 180px;
+	}
+	.blog-image {
+    	text-align: center;
+	}
+	/*Career Page*/
+	.career-index {
+		padding-top: 0;
+	}
+	.career-index .leftCol::before {
+    	max-height: 470px;
+	}
+	.career-index .leftCol .blueDoct {
+    	max-width: 435px;
+	}
+	.career-index .leftCol {
+    	min-height: 515px;
+	}
+	.position-heading-sec .boldText {
+    	font-size: 25px;
+	}
+	.position-heading-sec .siteLabel {
+    	font-size: 20px;
+	}
+	.position-sect-cards {
+	    margin-bottom: 50px;
+	}
+	/*Blog Page*/
+	.blog-promo-sec .blog-card-wrap {
+    	margin: 20px auto;
+	}
+
+
+	/*FOOTER*/
+	.footer-group-4 {
+    	margin-top: 40px;
+	}
+	.index-sec-4 .img-box{
+		margin-top: 40px;
+	}
+	/*Health Page*/
+	.allied-img-st img {
+    	object-fit: cover;
+	}
+	.profileDetails {
+    	padding-left: 15px;
+	}
+	/*Profile Detail Page*/
+	.view-profile-wrap {
+	    padding-bottom: 20px;
+	}
+
+}
+@media only screen and (max-width:660px){
+	.login-modal{
+		min-height: auto;
+		padding-top: 140px;
+	}
+	.login-modal .modal-logo{
+		width: 212px;
+    	height: 45px;
+		background: url(../images/logo.png);
+		background-size: cover;
+		margin-bottom: 20px;
+	}
+	.login-modal button.slide-button {
+    	padding: 10px 30px;
+	}
+	.login-modal .overlay{
+		width: 100%;
+	    height: 100%;
+	    left: 0;
+	    top: 0;
+	    transform: none !important;
+	}
+	.login-modal .overlay-panel h1,
+	.login-modal .overlay-panel p{
+		display: none;
+	}
+	.login-modal .overlay-container{
+		width: 100%;
+		left: 0;
+		height: 150px;
+	}
+	.login-modal .overlay-panel{
+		width: 100%;
+	}
+	.login-modal .sign-up-container,
+	.login-modal .sign-in-container {
+    	width: 100%;
+    	padding: 30px 0;
+	}
+	.login-modal .sign-up-container{
+		position: absolute;
+		transform: translateY(-100%);
+	}
+	.login-modal .sign-in-container{
+		position: relative;
+	}
+	.login-modal.right-panel-active .sign-in-container {
+	  	transform: translateY(100%);
+	  	position: absolute;
+	}
+	.login-modal.right-panel-active .sign-up-container {
+	  	transform: none;
+	  	position: relative;
+	  	transform: translateY(0%);
+	} 
+	.login-modal .overlay-left {
+    	transform: translateY(-100%);
+	}
+	.login-modal .overlay-right{
+
+	}
+	.login-modal.right-panel-active .overlay-left{
+		transform: translateY(0%);
+	}
+	.login-modal.right-panel-active .overlay-right{
+		transform: translateY(-100%);
+	}
+	.login-modal.right-panel-active .overlay-container {
+    	transform: none;
+	}
+	.indexSecOne {
+		padding-top: 30px;
+    	max-height: 900px;
+    	min-height: 900px;
+	}
+	.indexSecOne .rightCol .discountTag {
+    	left: -4%;
+	}
+	.service-item {
+    	justify-content: center;
+	}
+	.view-btn a {
+    	padding: 15px 20px;
+	}
+	.appointment-box {
+    	padding: 30px 20px;
+	}
+	.innerBanner {
+    	min-height: 300px;
+    	padding-top: 0;
+    	padding-bottom: 0;
+	}
+	.profileSec .profileBox .profileDetails .contactInfo {
+        font-size: 14px;
+	}
+	.profile-index-sec .details-sect-wrap .title {
+        font-size: 40px;
+	}
+
+	.innerBanner .bottomImg {
+    	max-width: 350px;
+	}
+
+	.innerBanner .topImg {
+    	max-width: 350px;
+	}
+	.position-sect-cards {
+    	margin-bottom: 50px;
+	}
+	/*Sign In/Up */
+	.login-modal .modal-logo {
+    	height: 70px;
+	}
+}
+@media only screen and (max-width:575px){
+	/*INDEX PAGE*/
+	.index-sec-4 .info-box{
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		padding: 30px 25px;
+		right: 0;
+	}
+	.index-4-text .heading {
+	    font-size: 34px;
+	    line-height: 1.2;
+	}
+	.index-5-text .sub-heading {
+    	margin-bottom: 10px;
+	}
+	.index-5-text .heading {
+    	font-size: 38px;
+	}
+	.index-sec-5:before {
+    	height: 60px;
+	}
+	.index-sec-5:after {
+    	height: 60px;
+	}
+	.index-5-text {
+    	padding: 150px 0 0px 0;
+	}
+	.index-sec-5 .img-box{
+		top: 50px;
+		padding: 0 30px;
+	}
+	.index-sec-6 {
+    	padding-top: 120px;
+	}
+	.gen-sec-top .heading {
+    	font-size: 36px;
+	}
+	.product-card {
+	    max-width: 400px;
+	    margin: 0 auto;
+	    margin-bottom: 45px;
+	}
+	.news-card{
+		max-width: 400px;
+    	margin: 0 auto;
+	}
+	.services-box {
+    	border-radius: 50px 50px 200px 50px;
+	}
+	.blog-card {
+    	padding: 30px 0px;
+	}
+	/*Travel Page*/
+	.profileSec .profileBox .profileDetails {
+    	padding: 30px;
+	}
+	.testimonial-sect .title p {
+    	font-size: 22px;
+	}
+	/*Health Page*/
+	.allied-card-wrap {
+		flex-direction: column;
+	}
+	.profileDetails {
+    	padding-left: 0px;
+    	padding-top: 20px;
+	}
+	.allied-img-st img {
+    	max-width: 100%;
+    	min-height: 100%;
+    	max-height: 100%;
+	}
+	/*Career Page*/
+	.position-sect-cards {
+    	margin: 0px 0px 50px;
+	}
+	.career-form-sect .form-wrap {
+    	padding: 0px 10px;
+	}
+	.innerBanner .topImg {
+        max-width: 170px;
+    }
+    .innerBanner .bottomImg {
+        max-width: 170px;
+    }
+
+
+	/*CONTACT PAGE*/
+	.contact-2-text > div{
+		width: 100%;
+		padding-right: 0px;
+	}
+}
+@media only screen and (max-width:480px){
+	/*INDEX PAGE*/
+	.index-3-tabs-wrap .nav-item {
+    	width: 100%;
+	}
+	.index-3-tabs-wrap .nav-link{
+		height: 70px;
+	}
+	.index-2-card .icon {
+    	padding-bottom: 20px;
+	}
+	.index-2-text .heading {
+    	font-size: 36px;
+	}
+	.index-2-card p {
+    	font-size: 16px;
+	}
+	.indexSecOne .rightCol::before {
+    	max-width: 420px;
+	}
+	.indexSecOne .rightCol img {
+    	right: 14%;
+    	bottom: 3%;
+	}
+	.indexSecOne .rightCol .discountTag {
+    	left: 0%;
+	}
+	.appointment-box {
+    	flex-direction: column;
+    	text-align: center;
+	}
+	.appointment-box p {
+    	padding: 0px 0px 30px;
+	}
+	/*Health Page*/
+	.profileDetails {
+    	padding-left: 20px;
+	}
+	/*Inner banner*/
+	.innerBanner {
+        min-height: 220px;
+        max-height: 220px;
+        padding-bottom: 0;
+        padding-top: 0;
+    }
+    .breadCrumb {
+        font-size: 12px;
+    }
+    .boldText {
+        font-size: 25px;
+    }
+    .title .siteLabel {
+        padding: 10px 30px;
+    }
+	/*Profile Detail Page*/
+	.details-sect-wrap {
+    	background: #2c2c2c;
+    	padding: 20px 20px;
+	}
+	.profile-index-sec .details-sect-wrap .title {
+    	font-size: 30px;
+	}
+
+
+}
+@media only screen and (max-width:440px){
+	/*INDEX PAGE*/
+	.index-3-tabs-wrap .tab-pane {
+    	padding: 50px 30px 40px 30px;
+	}
+	.index-sec-4 .info-box .heading {
+    	font-size: 32px;
+	}
+	.login-btn {
+    	padding: 10px 15px;
+	}
+	.boldText {
+    	font-size: 30px;
+	}
+	.indexSecOne .rightCol::before {
+    	max-width: 360px;
+	}
+	.indexSecOne .rightCol img {
+    	right: 13%;
+    	bottom: 2%;
+    	max-width: 350px;
+	}
+	.indexSecTwo .leftCol::before {
+    	max-width: 370px;
+	}
+	.indexSecTwo .leftCol .blueDoct {
+    	bottom: 2%;
+    	left: 16%;
+    	max-width: 330px;
+	}
+	.indexSecTwo .rightCol .title span {
+    	font-size: 30px;
+	}
+	.indexSecTwo .rightCol .title .siteLabel {
+    	font-size: 20px;
+	}
+	.indexSecThree .leftCol .title .siteLabel {
+    	padding: 10px 20px;
+	}
+	.service-itemBox .card-body {
+    	margin: 0 0 0 140px;
+	}
+	.loginCta .login-icon-btn {
+	    background: #ffb710;
+	    border-radius: 100%;
+	    width: 40px;
+	    height: 40px;
+	    display: flex !important;
+	    justify-content: center;
+	    align-items: center;
+	    color: #000 !important;
+	}
+	.loginCta .login-btn {
+		display: none;
+	}
+}
+@media only screen and (max-width:414px){
+	.login-modal form{
+		padding: 0 20px;
+	}
+	.login-modal h1 {
+    	font-size: 26px;
+	}
+}
+@media only screen and (max-width:375px){
+	/*INDEX PAGE*/
+	.news-card .desc {
+    	padding: 0 10px;
+	}
+	.indexSecOne {
+    padding-top: 115px;
+	}
+	.indexSecTwo .rightCol .title {
+	    margin-top: 0;
+	}
+	.innerBanner {
+        min-height: 180px;
+        max-height: 180px;
+	}
+	.indexSecTwo .rightCol .title .siteLabel {
+        font-size: 16px;
+    }
+    .indexSecTwo .leftCol .tag {
+        font-size: 16px;
+        padding: 10px 10px;
+    }
+    .indexSecTwo .leftCol .topCorner {
+        height: 70px;
+        width: 70px;
+    }
+    .indexSecTwo .rightCol .serviceList .service span {
+        width: 60px;
+        height: 60px;
+        margin-right: 10px;
+    }
+	.boldText {
+    	font-size: 22px;
+	}
+	.lightText {
+    	font-size: 16px;
+	}
+	.indexSecOne .rightCol::before {
+    	max-width: 320px;
+	}
+	.indexSecOne .rightCol {
+    	margin: 40px auto;
+	}
+	.indexSecOne .rightCol .discountTag {
+    	top: 0%;
+    	max-width: 120px;
+	}
+	.indexSecOne .rightCol img {
+    	right: 9%;
+    	bottom: 2%;
+    	max-width: 280px;
+	}
+	.title .siteLabel {
+    	padding: 10px 20px;
+	}
+	.indexSecTwo .leftCol::before {
+    	max-width: 320px;
+	}
+	.indexSecTwo .leftCol .blueDoct {
+    	left: 20%;
+    	bottom: 2%;
+    	max-width: 270px;
+	}
+	.indexSecThree .leftCol .clientList span {
+    	margin-right: 10px;
+	}
+	.service-item {
+    	font-size: 17px;
+	}
+	.service-itemBox .card-body {
+    	margin: 0 0 0 30px;
+	}
+	.service-item p {
+    	margin-left: 0px;
+	}
+	.test-header .client-image img {
+    	max-width: 120px;
+    	max-height: 80px;
+    	min-height: 80px;
+	}
+	.testimonials-slider .owl-dot span {
+    	width: 10px !important;
+    	height: 10px !important;
+	}
+	.services-box {
+    	margin-top: 30px;
+	}
+	.about-index {
+        padding-top: 0px !important;
+    }
+	/*Health Page*/
+	.profileDetails .name {
+    	font-size: 20px;
+	}
+	/*Career Page*/
+	.career-index .leftCol .blueDoct {
+    	max-width: 325px;
+	}
+	.career-index .leftCol::before {
+    	max-height: 355px;
+	}
+	.career-index .leftCol {
+    	min-height: 390px;
+	}
+	.career-form-sect {
+		padding-top: 0;
+	}
+	.career-index {
+        padding-top: 0px !important;
+    }
+	.rightCol {
+        padding-top: 20px;
+`   }
+    /*Travel*/
+    .travel-index {
+        padding-top: 0px !important;
+    }
+    .testimonial-sect .title p {
+        font-size: 17px;
+    }
+    /*Profile page*/
+    .profile-index {
+        padding-top: 0px !important;
+    }
+    .profile-index-sec .details-sect-wrap .title {
+        font-size: 25px;
+    }
+
+
+	.indexSecTwo .rightCol .title span {
+        font-size: 25px;
+    }
+
+
+	/*Blog Page*/
+	.blog-promo-sec .blog-card-wrap {
+    	max-height: 700px;
+    	min-height: 700px;
+	}
+	.blog-card-wrap .blog-fonts p {
+    	font-size: 12px;
+	}
+	.blog-promo-sec .boldText {
+    	line-height: 2;
+	}
+	.blog-promo-sec .blog-card-st2 {
+    	padding-left: 0px;
+	}
+    .position-heading-sec .boldText {
+        font-size: 20px;
+    }
+    .blog-promo-sec .blog-card-wrap {
+        max-height: 660px;
+        min-height: 660px;
+    }
+    .blog-index {
+        padding-top: 0px !important;
+    }
+    /*Health Page*/
+    .allied-index {
+        padding-top: 0px !important;
+    }
+	/*Footer Css Start*/
+	.footer-logo img {
+    	max-width: 200px;
+	}	
+
+}
+@media (max-width: 320px) {
+	.indexSecOne .rightCol::before {
+    	max-width: 270px;
+	}
+	.indexSecTwo .leftCol::before {
+    	max-width: 270px;
+	}
+	.indexSecTwo .leftCol .blueDoct {
+    	left: 15%;
+    	bottom: 2%;
+	}
+	.title .siteLabel {
+        padding: 5px 20px;
+    }
+	/*Travel Page*/
+	.profileSec .profileBox .profileDetails {
+    	padding: 20px;
+	}	
+	/*Career page*/
+	.career-index .rightCol .title span {
+    	font-size: 22px;
+	}
+	.career-index .leftCol .blueDoct {
+    	max-width: 275px;
+	}
+	.career-index .leftCol::before {
+    	max-height: 300px;
+	}
+	.career-index .leftCol {
+    	min-height: 330px;
+	}	
+	/*Blog Page*/
+	.blog-card-wrap .blog-fonts {
+    	padding: 0px 5px 0px 0px;
+    	margin: 20px 0px;
+	}
+	.blog-card-wrap .blog-fonts p {
+    	font-size: 11px;
+	}
+	.blog-promo-sec .b-card-st3-head {
+    	font-size: 18px;
+	}
+	/*Profile Detail Page*/
+	.details-sect-wrap {
+    	background: #2c2c2c;
+    	padding: 20px 7px 10px 10px;
+	}
+
+}
